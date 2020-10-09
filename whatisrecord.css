@@ -1,0 +1,14 @@
+body{
+ background-image: url("pexels-photo-196667.jpeg");
+ background-repeat: no-repeat;
+ background-size: 100% 100%;
+ background-position: center;
+ background-attachment: fixed;
+ font: 200% chilanka ,cabin, sans-serif;
+ text-align:left;
+}
+h1{
+ text-align: left;
+ color: #8b4513;
+ font: 300% manjari bold, sans-serif;
+}

@@ -1,0 +1,29 @@
+body{
+ background-image: url("tianjin-2185510_1920.jpg");
+ background-repeat: no-repeat;
+ background-size: 100% 100%;
+ background-position: center;
+ background-attachment: fixed;
+ color: white;
+ font: 200% chilanka ,cabin, sans-serif;
+ 
+}
+.paragraph1{
+margin-top: 8em;
+text-align: center;
+margin-right: 3em;
+margin-left: 3em;
+font-weight: bold;
+}
+table, th, td{
+ margin: 0.75em 0 0 0.50em;
+ border: 2px solid #FF7F50;
+ border-collapse: collapse;
+ text-align: left;
+ padding-right: 1em;
+}
+th{
+ font-style: italic;
+ color:  	#F5F5F5;
+}
+

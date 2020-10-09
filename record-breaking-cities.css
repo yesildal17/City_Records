@@ -1,0 +1,50 @@
+h1{
+ text-align: center;
+ font: 46pt chilanka, cabin, sans-serif;
+ color: #C71585;
+}
+body{
+ background-image: url("pink-250769_640.jpg");
+ font-family: sawasdee, cabin, sans-serif;
+
+}
+.longyearbyen{
+ float: left;
+}
+#longyearbyen{
+ font-size: 25pt;
+ text-align: center;
+ margin-top: 6em;
+ margin-bottom: 5em;
+}
+.oymyakon{
+ float: right; 
+}
+#oymyakon{
+ font-size: 25pt;
+ text-align: center;
+ margin-top: 10em;
+ margin-bottom: 5em;
+}
+#cj{
+ font-size: 25pt;
+ text-align: center;
+ margin-top: 9em;
+ margin-bottom: 5em;
+}
+#jericho{
+ font-size: 25pt;
+ text-align: center;
+ margin-top: 11em;
+ margin-bottom: 5em;
+
+}
+#mumbai{
+ font-size: 25pt;
+ text-align: center;
+ margin-top: 9.5em;
+ margin-bottom: 7em;
+}
+#bt{
+ font-size: 15.3pt;
+}
